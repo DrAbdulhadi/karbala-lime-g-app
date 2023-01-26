@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Segoe+UI:wght@300;400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-segoe-ui: "Segoe UI";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-xs: 18px;
+  --font-size-sm: 22px;
+  --font-size-base: 24px;
+  --font-size-lg: 28px;
+  --font-size-xl: 32px;
+  --font-size-2xl: 36px;
+  --font-size-3xl: 42px;
+  --font-size-4xl: 48px;
+
+  /* Colors */
+  --color-gray-100: #4f3c45;
+  --color-gray-200: #2c3639;
+  --color-gray-300: #1e1e1e;
+  --color-orange: #fac95e;
+  --color-tan: #dab565;
+  --color-white: #fff;
+
+  /* border radiuses */
+  --br-md: 10px;
+}
